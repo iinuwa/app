@@ -72,7 +72,7 @@ services:
       - 5678:5678
 ```
 
-And an empty `parameters.yml. Let's edit and add the following default values for our applicatoin
+And an empty `parameters.yml. Let's edit and add the following default values for our application:
 
 ```yaml
 port: 5678
